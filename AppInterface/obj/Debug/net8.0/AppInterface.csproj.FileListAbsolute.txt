@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\CodeAcademy\AppInterface\AppInterface\bin\Debug\net8.0\AppInterface.exe
+C:\Users\Denis\source\repos\CodeAcademy\AppInterface\AppInterface\bin\Debug\net8.0\AppInterface.deps.json
+C:\Users\Denis\source\repos\CodeAcademy\AppInterface\AppInterface\bin\Debug\net8.0\AppInterface.runtimeconfig.json
+C:\Users\Denis\source\repos\CodeAcademy\AppInterface\AppInterface\bin\Debug\net8.0\AppInterface.dll
+C:\Users\Denis\source\repos\CodeAcademy\AppInterface\AppInterface\bin\Debug\net8.0\AppInterface.pdb
+C:\Users\Denis\source\repos\CodeAcademy\AppInterface\AppInterface\obj\Debug\net8.0\AppInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\CodeAcademy\AppInterface\AppInterface\obj\Debug\net8.0\AppInterface.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\CodeAcademy\AppInterface\AppInterface\obj\Debug\net8.0\AppInterface.AssemblyInfo.cs
+C:\Users\Denis\source\repos\CodeAcademy\AppInterface\AppInterface\obj\Debug\net8.0\AppInterface.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\CodeAcademy\AppInterface\AppInterface\obj\Debug\net8.0\AppInterface.dll
+C:\Users\Denis\source\repos\CodeAcademy\AppInterface\AppInterface\obj\Debug\net8.0\refint\AppInterface.dll
+C:\Users\Denis\source\repos\CodeAcademy\AppInterface\AppInterface\obj\Debug\net8.0\AppInterface.pdb
+C:\Users\Denis\source\repos\CodeAcademy\AppInterface\AppInterface\obj\Debug\net8.0\AppInterface.genruntimeconfig.cache
+C:\Users\Denis\source\repos\CodeAcademy\AppInterface\AppInterface\obj\Debug\net8.0\ref\AppInterface.dll
